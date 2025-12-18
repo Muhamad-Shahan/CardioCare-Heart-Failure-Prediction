@@ -9,7 +9,7 @@ Cardiovascular diseases (CVDs) are the leading cause of death globally. Early st
 
 **CardioCare** is a machine learning-based **Clinical Decision Support System (CDSS)** designed to predict mortality events in heart failure patients. This project implements a **Comparative Kernel Analysis** using Support Vector Machines (SVM), evaluating the efficacy of Linear, Polynomial, and Radial Basis Function (RBF) kernels on clinical data.
 
-> **[🔴 Launch Clinical Dashboard](https://your-app-link.streamlit.app/)**
+> **[🔴 Launch Clinical Dashboard](https://cardiocare-heart-failure-prediction-bshw2gqhqurqtk73ftbky7.streamlit.app/)**
 
 ## 🔬 Scientific Methodology
 The model was developed using the **UCI Heart Failure Clinical Records** dataset (N=299).
